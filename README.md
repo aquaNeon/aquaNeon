@@ -1,8 +1,5 @@
 - Hi, I’m @aquaNeon
 - 👀 I’m interested in 3d-design, lightning, programming & XR 
-- I’m working in UE5, C++ & Blender 
-- Currenlty learning Unity & C#
-- I’m looking to collaborate on any learning experiences we might share
 - 📫 How to reach me: aqua_neon#7425 on discord
 
 <!---
