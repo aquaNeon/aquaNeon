@@ -1,6 +1,5 @@
-- Hi, I’m @aquaNeon
-- 👀 I’m interested in 3d-design, lightning, programming & XR 
-- 📫 How to reach me: aqua_neon#7425 on discord
+working on my three.js skills
+aqua_neon#7425 on discord
 
 <!---
 aquaNeon/aquaNeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
