@@ -1,4 +1,3 @@
-working on my three.js skills
 aqua_neon#7425 on discord
 
 <!---
