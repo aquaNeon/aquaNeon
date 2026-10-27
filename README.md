@@ -1,6 +1,6 @@
-hello@fridawiig.xyz
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="100%" alt="git commit -m &quot;make it move&quot;">
+</picture>
 
-<!---
-aquaNeon/aquaNeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[fridawiig.xyz](https://fridawiig.xyz) · hello@fridawiig.xyz
