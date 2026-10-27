@@ -3,4 +3,3 @@
   <img src="assets/header-light.svg" width="100%" alt="git commit -m &quot;make it move&quot;">
 </picture>
 
-[fridawiig.xyz](https://fridawiig.xyz) · hello@fridawiig.xyz
